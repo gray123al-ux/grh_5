@@ -1,4 +1,3 @@
-import math
 
 import streamlit as st
 import pandas as pd
@@ -7,6 +6,7 @@ import plotly.graph_objects as go
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
+
 
 # --------------------------------------------------
 # 기본 설정
