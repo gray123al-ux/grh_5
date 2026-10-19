@@ -6,3 +6,4 @@ sklearn.preprocessing
 sklearn.cluster
 sklearn.metrics
 math
+plotly
